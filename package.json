@@ -3,9 +3,9 @@
   "displayName": "M.U.G.E.N coding supporter",
   "description": "Supports editing M.U.G.E.N .def .cns .cmd .st files.",
   "version": "1.0.0",
-  "publisher": "Not_Applicable",
+  "publisher": "not-applicable",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Programming Languages",
@@ -71,7 +71,7 @@
     "test": "node ./out/test/runTest.js"
   },
   "devDependencies": {
-    "@types/vscode": "^1.77.0",
+    "@types/vscode": "^1.75.0",
     "@types/glob": "^8.0.0",
     "@types/mocha": "^10.0.1",
     "@types/node": "16.x",
